@@ -10,7 +10,7 @@ document.write(`
         <nav id="nav">
             <ul>
                 <li><a href="/about.html">About</a></li>
-                <li><a href="/2024/report.html">2024 Report</a></li>
+                <li><a href="/2025/report.html">2025 Report</a></li>
                 <li><a href="/camp.html">Camp With Us</a></li>
                 <li><a href="/members.html">Members</a></li>
                 <li><a href="/contact.html">Contact</a></li>
